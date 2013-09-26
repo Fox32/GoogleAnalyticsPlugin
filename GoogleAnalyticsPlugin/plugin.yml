@@ -1,0 +1,7 @@
+name: GoogleAnalyticsPlugin
+main: com.TentacleLabs.GoogleAnalyticsPlugin.GoogleAnalyticsPlugin
+version: 2.1
+permissions:
+     googleanalyticsplugin.ignore:
+         description: Ignores all actions of this player
+         default: false
